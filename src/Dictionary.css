@@ -1,3 +1,22 @@
 .results {
     color: #fff;
 }
+
+h1 {
+    font-size: 68px;
+  }
+
+  h2 {
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+
+  h3 {
+    font-size: 28px;
+    font-weight: 800;
+  }
+
+  p {
+    font-size: 24px;
+  }
