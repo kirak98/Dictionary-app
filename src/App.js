@@ -10,7 +10,8 @@ function App() {
         <h1>Dictionary</h1>
        <Dictionary/>
       </header>
-      <footer> Open Source coded by Kira King </footer>
+      <footer> 
+        <a href="https://github.com/kirak98/Dictionary-app" target="_blank" rel="noopener noreferrer"> Open Source </a> coded by Kira King </footer>
     </div>
   );
 }
