@@ -1,0 +1,22 @@
+.Synonyms { 
+    font-size: 24px;
+    font-weight: 600;
+    opacity: 0.5;
+    padding: 10px;
+
+}
+.Synonyms ul {
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .Synonyms li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 12px;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 25px;
+    border: solid;
+    padding: 8px;
+  }
