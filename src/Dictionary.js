@@ -36,7 +36,7 @@ const [results, setResults] = useState (null);
     return (
         <div className="Dictionary">
             <section>
-            <form onSubmit={search}>
+            <form onSubmit={search} className="form-control-lg ">
                 <input type="search" placeholder="Search for a word..." onChange={handleKeywordChange} />
                 
             </form>
